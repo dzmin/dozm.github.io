@@ -2,5 +2,6 @@
   "title": "hello",
   "date": "2016/5/7",
   "content": "hello dozm",
-  "test": 1234
+  "test": 1234,
+  "test2": 999
 }
