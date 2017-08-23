@@ -1,9 +1,6 @@
 {
-  [
-    {
-      "title": "hello",
-      "date": "2016/5/7",
-      "content": "hello dozm"
-    }
-  ]
+  "title": "hello",
+  "date": "2016/5/7",
+  "content": "hello dozm",
+  "test": 1234
 }
